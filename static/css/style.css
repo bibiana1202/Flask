@@ -1,0 +1,20 @@
+.test {
+    color: blue; 
+}
+#test1 {
+    font-size : 80px;
+}
+h2 {
+    color : red;
+}
+
+table {
+    border: 1px solid;
+}
+
+td {
+    border: 1px solid;
+}
+tr {
+    border: 1px solid;
+}
